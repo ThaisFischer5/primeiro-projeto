@@ -1,1 +1,2 @@
-Este é um arquivo de exemplo, DEU CERTOO
+Este é um arquivo de exemplo
+Adicionando uma nova funcionalidade
